@@ -22,7 +22,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 - 📫 How to reach me *pathaksupriya981@gmail.com*
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1QqhopBMPObPFsZF61IuLP4qtEBQ0RGTU/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1uDcHFB7YXvDPhKlfyoac4bxojo29AVWC)
 
 
 <h3 align="left">Connect with me:</h3>
