@@ -1,36 +1,33 @@
 <img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" />
-<h1 align="center">Hi 👋, I'm Jyoti Prakash Mohapatra</h1>
+<h1 align="center">Hi 👋, I'm Supriya Pathak</h1>
 <h2 align="left">About me</h2>
 <h4 align="center">I'm a Full Stack Developer. 
 
-My field of Interest's are building new Web Technologies and Products. apart from that I love to analysis stocks and crypto.
-
-Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks like React.js, Express
+My field of Interest's are building new Web Technologies and Products. Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks like React.js, Expressjs.
 
 I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team collaboration.</h4>
 <img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotipm1999&label=Profile%20views&color=0e75b6&style=flat" alt="jyotipm1999" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Supriyakaa&label=Profile%20views&color=0e75b6&style=flat" alt="jyotipm1999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotipm1999&theme=discord" alt="jyotipm1999" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Supriykaa&theme=discord" alt="jyotipm1999" /></a> </p>
 
 - 🔭 I’m currently working on [Tracking Time](https://trackingtime.co/)
 
 - 🌱 I’m currently learning *React, MongoDB, Express JS, Node JS*
-- 📫 All my projects are available here[My repositories](https://github.com/JYOTIPM1999?tab=repositories)
+- 📫 All my projects are available here[My repositories](https://github.com/Supriyakaa?tab=repositories)
 
 - 💬 Ask me about *React, Redux, MongoDB*
 
-- 📫 How to reach me *jyotipm1999@gmail.com, 9337841077*
+- 📫 How to reach me *pathaksupriya981@gmail.com*
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1QqhopBMPObPFsZF61IuLP4qtEBQ0RGTU/view?usp=sharing)
 
-- ⚡ Fun fact *I am a Chartered Accountancy Aspirant, Trader & Newbie Inverstor.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/jyotipm1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jyotipm1999" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jyoti-prakash-mohapatra-8550a61a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jyoti-prakash-mohapatra-8550a61a5/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/supriya-pathak-74868b23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supriya-pathak-74868b23a/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/jyotipm1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/jyotipm1999" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/jyoti_p_mohapatra_here/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jyoti_p_mohapatra_here/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/jyotiprakash6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/jyotiprakash6" height="30" width="40" /></a>
