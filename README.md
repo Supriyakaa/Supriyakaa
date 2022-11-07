@@ -11,7 +11,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Supriyakaa&label=Profile%20views&color=0e75b6&style=flat" alt="Supriyakaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Supriykaa&theme=discord" alt="Supriyakaa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotipm1999&theme=discord" alt="Supriyakaa" /></a> </p>
 
 - 🔭 I’m currently working on [Tracking Time](https://trackingtime.co/)
 
