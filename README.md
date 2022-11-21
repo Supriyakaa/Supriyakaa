@@ -44,13 +44,10 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/SUPIYAKAA"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SupriaKaa" /></a></p><br><br>
 
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=SupriaKaa&show_icons=true&locale=en&layout=compact" alt="XSA"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SupriaKaa&show_icons=true&locale=en" alt="DCS" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotipm1999" alt="Supriya_Pathak" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriyakaa" alt="Supriya_Pathak" /> </p>
 
 
 <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=JYOTIPM1999&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=supriyapathak&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
 </p>
