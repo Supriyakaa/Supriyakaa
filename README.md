@@ -51,10 +51,6 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotipm1999" alt="Supriya_Pathak" /> </p>
 
 
-
-
-
-
 <p>
   <img src="https://activity-graph.herokuapp.com/graph?username=JYOTIPM1999&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
 </p>
