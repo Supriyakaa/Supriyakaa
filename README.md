@@ -22,6 +22,8 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 - 📫 How to reach me *pathaksupriya981@gmail.com*
 
+- 👨‍💻 All of my projects are available at - https://supriyakaa.github.io/
+
 - 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1uDcHFB7YXvDPhKlfyoac4bxojo29AVWC)
 
 
@@ -31,8 +33,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 <a href="https://www.linkedin.com/in/supriya-pathak-74868b23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supriya-pathak-74868b23a/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/Supriyakaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/Supriyakaa" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/jyoti_p_mohapatra_here/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jyoti_p_mohapatra_here/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/jyotiprakash6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/jyotiprakash6" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucdfhjrpwkcpyijbud_ypm8g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdfhjrpwkcpyijbud_ypm8g" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/Supriyakaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/Supriyakaa" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/Supriyakaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/Supriyakaa" height="30" width="40" /></a>
 </p>
