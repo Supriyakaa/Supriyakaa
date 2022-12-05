@@ -51,6 +51,6 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 </p>
 
 
-<p>
+<!-- <p>
   <img src="https://activity-graph.herokuapp.com/graph?username=supriyapathak&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
-</p>
+</p> -->
