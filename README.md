@@ -45,7 +45,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 <p><a href="https://www.buymeacoffee.com/SUPIYAKAA"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SupriaKaa" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriyakaa" alt="Supriya_Pathak" /> </p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriyakaa" alt="Supriya_Pathak" /> </p> -->
 
 
 <p>
