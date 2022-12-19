@@ -21,9 +21,9 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 - 💬 Ask me about *React, Redux, MongoDB*
 
-<!-- - 📫 How to reach me *pathaksupriya981@gmail.com* -->
+- 📫 How to reach me *pathaksupriya981@gmail.com*
 
-<!-- - 👨‍💻 All of my projects are available at - https://supriyakaa.github.io/ -->
+- 👨‍💻 All of my projects are available at - https://supriyakaa.github.io/
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1uDcHFB7YXvDPhKlfyoac4bxojo29AVWC)
 
