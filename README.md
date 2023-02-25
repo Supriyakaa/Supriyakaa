@@ -14,7 +14,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotipm1999&theme=discord" alt="Supriyakaa" /></a> </p>
 
-- 🔭 I’m currently working on [Tracking Time](https://trackingtime.co/)
+<!-- - 🔭 I’m currently working on [Tracking Time](https://trackingtime.co/) -->
 
 - 📫 All my projects are available here[My repositories](https://github.com/Supriyakaa?tab=repositories)
 
@@ -29,30 +29,32 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/Supriyakaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/Supriyakaa" height="30" width="40" />
+<a href="https://codepen.io/https://codepen.io/Supriyakaa" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/Supriyakaa" height="30" width="40" />
   </a>
-<a href="https://www.linkedin.com/in/supriya-pathak-74868b23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supriya-pathak-74868b23a/" height="30" width="40" />
+<a href="https://www.linkedin.com/in/supriya-pathak-74868b23a/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supriya-pathak-74868b23a/" height="30" width="40" />
   </a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/Supriyakaa" 
    target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
        
-       alt="https://codesandbox.io/u/Supriyakaa" height="30" width="40" />
+    alt="https://codesandbox.io/u/Supriyakaa" height="30" width="40" />
   </a>
+  
 <a href="https://instagram.com/https://www.instagram.com/jyoti_p_mohapatra_here/" target="blank">
   
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
        
-       alt="https://www.instagram.com/jyoti_p_mohapatra_here/" height="30" width="40" /></a>
+alt="https://www.instagram.com/jyoti_p_mohapatra_here/" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/Supriyakaa" target="blank"><img align="center"
-                                                                                               
-     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/Supriyakaa" target="blank">
+  <img align="center"                                                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
                                                                                                alt="https://www.hackerrank.com/Supriyakaa" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/Supriyakaa" target="blank">
   
-  <img align="center" 
-                                                                                                                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" 
+                                                                                                                   
+  <img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" 
                                                                                                                  
               alt="https://auth.geeksforgeeks.org/user/Supriyakaa" height="30" width="40" />
  </a>
